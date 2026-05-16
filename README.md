@@ -95,27 +95,20 @@ LLM_MODEL=qwen3-coder
 - [ ] Review dashboard UI
 - [ ] Slack/Discord notifications
 
-## Sponsors
+## ❤️ Sponsors
 
-OpenReview is MIT licensed and self-hosted forever. If this saves your team time,
-consider [sponsoring on GitHub](https://github.com/sponsors/kunci115).
+OpenReview is MIT licensed, self-hosted, and will stay that way forever.
 
----
-
-*Built by [Kolonix](https://kolonix.com) • Self-hosted • MIT • No vendor lock-in*
-
----
-
-## 💖 Sponsors
-
-OpenReview is MIT licensed and self-hosted forever.  
-If it saves your team code review time, consider supporting:
+If it saves your team hours of code review, consider supporting:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa?logo=github)](https://github.com/sponsors/kunci115)
-[![Polar](https://img.shields.io/badge/Polar-Subscribe-7c3aed?logo=polar)](https://polar.sh/kunci115)
 
-### Sponsor Tiers
+| Tier | Price | Includes |
+|---|---|---|
+| **Supporter** | $5/mo | Name in README, priority issues |
+| **Pro** | $25/mo | Custom review rules, early access |
+| **Enterprise** | $100/mo | Dedicated support, custom LLM config |
 
-- **$5/mo** — Supporter: name in README + priority issue triage
-- **$25/mo** — Pro: custom review rules + early access
-- **$100/mo** — Enterprise: dedicated support + custom LLM config
+---
+
+*Built with ❤️ by [Rino](https://github.com/kunci115) • MIT • Self-hosted • No vendor lock-in*
