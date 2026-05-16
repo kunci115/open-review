@@ -1,0 +1,16 @@
+services:
+  open-review:
+    build: .
+    container_name: open-review
+    restart: unless-stopped
+    ports:
+      - "4000:4000"
+    environment:
+      - NODE_ENV=production
+      - PORT=4000
+      # LLM Configuration
+      - LLM_BASE_URL=https://api.deepseek.com/v1        # or openai/anthropic/ollama
+      - LLM_API_KEY=${LLM_API_KEY}                       # your API key
+      - LLM_MODEL=deepseek-chat                           # or gpt-4o / claude-sonnet-4
+      # GitHub
+      - GITHUB_TOKEN=${GITHUB_TOKEN}                      # classic PAT with repo scope

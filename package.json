@@ -1,0 +1,26 @@
+{
+  "name": "open-review",
+  "version": "0.1.0",
+  "description": "Self-hosted AI code review bot for GitHub PRs — MIT licensed alternative to CodeRabbit",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": ["code-review", "ai", "github", "pull-request", "self-hosted", "llm"],
+  "author": "Kolonix",
+  "license": "MIT",
+  "repository": "https://github.com/kunci115/open-review",
+  "dependencies": {
+    "express": "^4.21.0",
+    "octokit": "^3.1.2",
+    "openai": "^4.52.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
