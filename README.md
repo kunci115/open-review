@@ -103,3 +103,19 @@ consider [sponsoring on GitHub](https://github.com/sponsors/kunci115).
 ---
 
 *Built by [Kolonix](https://kolonix.com) • Self-hosted • MIT • No vendor lock-in*
+
+---
+
+## 💖 Sponsors
+
+OpenReview is MIT licensed and self-hosted forever.  
+If it saves your team code review time, consider supporting:
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ea4aaa?logo=github)](https://github.com/sponsors/kunci115)
+[![Polar](https://img.shields.io/badge/Polar-Subscribe-7c3aed?logo=polar)](https://polar.sh/kunci115)
+
+### Sponsor Tiers
+
+- **$5/mo** — Supporter: name in README + priority issue triage
+- **$25/mo** — Pro: custom review rules + early access
+- **$100/mo** — Enterprise: dedicated support + custom LLM config
